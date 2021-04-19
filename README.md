@@ -1,4 +1,5 @@
 Colisão Linear
 
 Grupo:
-Iuri e Marcos
+Iuri Rodrigues Turano
+Marcos Roberto Cunha Moraes Luz
